@@ -26,6 +26,7 @@
       "ja-space-after-exclamation": true,
       "ja-space-after-question": true,
       "ja-space-around-code": false
-    }
+    },
+    "@textlint-ja/no-synonyms": true
   }
 }
